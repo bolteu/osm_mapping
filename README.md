@@ -1,4 +1,4 @@
-# OSM_Mapping_at_Bolt
+# OSM_Mapping
 
 Information about:
 
